@@ -6,7 +6,7 @@
 $title = "Doreaweb Diseño Páginas Web y Hosting en Valledupar";
 $description = 'Diseño de páginas web, diseño web, diseño tiendas virtuales, sitios web, hosting web y mas.';
 $keywords = ['paginas web', 'diseño web', 'valledupar', 'hosting web', 'tiendas virtuales', 'ecommerce valledupar'];
-$images = [asset('img/logo.png')];
+$images = [env('APP_URL') . 'img/logo.png'];
 
 return [
     'meta' => [
@@ -19,7 +19,7 @@ return [
             'description'  => $description, // set false to total remove
             'separator'    => ' - ',
             'keywords'     => $keywords,
-            'canonical'    => false, // Set null for using Url::current(), set false to total remove
+            'canonical'    => null, // Set null for using Url::current(), set false to total remove
             'robots'       => 'all', // Set to 'all', 'none' or any combination of index/noindex and follow/nofollow
         ],
         /*
@@ -43,7 +43,7 @@ return [
         'defaults' => [
             'title'       => $title, // set false to total remove
             'description' => $description, // set false to total remove
-            'url'         => false, // Set null for using Url::current(), set false to total remove
+            'url'         => null, // Set null for using Url::current(), set false to total remove
             'type'        => 'website',
             'site_name'   => 'Doreaweb',
             'images'      => $images,
@@ -65,7 +65,7 @@ return [
         'defaults' => [
             'title'       => $title, // set false to total remove
             'description' => $description, // set false to total remove
-            'url'         => false, // Set null for using Url::current(), set false to total remove
+            'url'         => null, // Set null for using Url::current(), set false to total remove
             'type'        => 'WebPage',
             'images'      => $images,
         ],
