@@ -6,7 +6,7 @@
 $title = "Doreaweb Diseño Páginas Web y Hosting en Valledupar";
 $description = 'Diseño de páginas web, diseño web, diseño tiendas virtuales, sitios web, hosting web y mas.';
 $keywords = ['paginas web', 'diseño web', 'valledupar', 'hosting web', 'tiendas virtuales', 'ecommerce valledupar'];
-$images = [env('APP_URL') . 'img/logo.png'];
+$images = [env('APP_URL') . '/img/logo.png'];
 
 return [
     'meta' => [

@@ -8,7 +8,7 @@
     </div>
   </section>
 
-  <section class="py-4 lg:px-20 flex flex-col lg:flex-row lg:items-center" x-data="{open: false}">
+  <section class="py-4 lg:px-20 flex flex-col lg:flex-row lg:items-center lg:justify-between" x-data="{open: false}">
     <div class="pl-4 pr-6 flex justify-between items-center w-full lg:w-auto">
       <img src="{{ asset('img/logo.png') }}" class="w-1/2 sm:w-auto" alt="Logotipo doreaweb">
       <div class="block lg:hidden text-green-500">
