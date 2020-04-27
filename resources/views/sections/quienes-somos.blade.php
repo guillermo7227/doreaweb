@@ -18,7 +18,7 @@
     Nuestro equipo asesora, moldea y ejecuta soluciones pensadas según sus necesidades y los objetivos que desee lograr. No esperes más somos tu mejor aliado.
     </p>
 
-    <a href="#contacto" class="bg-green-500 text-gray-100 flex-grow self-stretch sm:self-auto py-2 px-4 text-lg text-center">CONTÁCTENOS</a>
+    <a href="#contacto" class="bg-green-500 text-gray-100 self-stretch sm:self-auto py-2 px-4 text-lg text-center">CONTÁCTENOS</a>
 
   </div>
 </section>

@@ -10,6 +10,8 @@
       @yield('title')
     </title>
 
+    {!! SEO::generate() !!}
+
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
   </head>
