@@ -1,6 +1,6 @@
 <footer class="bg-green-600 text-gray-100 px-24 pt-20 pb-4">
-    <div class="grid grid-cols-4 gap-4 mb-16">
-        <div>
+    <div class="sm:grid sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-16">
+        <div class="mb-4">
             <p class="font-bold text-lg">MENÚ</p>
             <ul class="list-disc list-inside">
                 <li><a href="#top">INICIO</a></li>
