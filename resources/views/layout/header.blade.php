@@ -1,6 +1,6 @@
 <header>
   <section class="bg-purple-600 text-sm text-gray-200 py-2 px-20 flex justify-between">
-    <span>Contáctenos ahora +57 301 752 9473</span>
+    <span><a href="https://wa.me/573017529473" target="_blank">Contáctenos ahora +57 301 752 9473</a></span>
     <div class="flex">
       <span class="ml-3">
         <a href="mailto:contacto@doreaweb.ml" title="Envíenos un email">@mdi('email', 'fill-current')</a>

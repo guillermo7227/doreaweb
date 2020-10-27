@@ -11,7 +11,7 @@
         <div>
             <p class="font-bold text-lg">CONTACTO</p>
             <ul class="">
-                <li class="flex items-center">@mdi('chat', 'fill-current') +57 301 752 9473</li>
+                <li><a href="https://wa.me/573017529473" target="_blank" class="flex items-center">@mdi('chat', 'fill-current') +57 301 752 9473</a></li>
                 <li><a href="mailto:contacto@doreaweb.ml" class="flex items-center">@mdi('email', 'fill-current') contacto@doreaweb.ml</a></li>
             </ul>
         </div>
