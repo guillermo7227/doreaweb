@@ -5,9 +5,9 @@
   <div class="container mx-auto">
     <h1 class="font-bold text-4xl lg:text-5xl leading-none text-center mb-8 text-purple-800">Hosting Web Profesional</h1>
 
-    <div class="grid grid-cols-2">
+    <div class="grid grid-cols-1 lg:grid-cols-2">
       <div>
-        <h1 class="text-3xl font-bold">Características</h1>
+        <h1 class="text-3xl font-bold ml-2">Características</h1>
         <div class="align-middle inline-block min-w-full shadow overflow-hidden bg-white shadow-dashboard px-8 pt-3 mt-2 rounded-bl-lg rounded-br-lg">
           <table class="min-w-full">
             <!-- <thead>
