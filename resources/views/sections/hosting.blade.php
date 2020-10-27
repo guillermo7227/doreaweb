@@ -1,5 +1,5 @@
 <!-- Servicios -->
-<section id="nuestros-servicios" class="text-purple-800 p-8 lg:p-20 text-center">
+<section id="hosting" class="text-purple-800 p-8 lg:p-20 text-center">
   <h1 class="font-bold text-4xl lg:text-5xl leading-none mb-8">Hosting Web y Diseño web, tiendas virtuales, sitios web y mas.</h1>
   <h2 class="font-bold text-3xl lg:text-4xl mb-8">
     Elige el servicio en el que estas interesado
@@ -8,7 +8,7 @@
   <p class="text-lg">Ofrecemos hosting y diseño web profesionales, tiendas online, posicionamiento de páginas web en buscadores y todo lo que tu sitio web necesita para alcanzar la cima.</p>
 
   <section class="grid md:grid-cols-2 lg:grid-cols-4 gap-4 mt-10">
-    <x-servicio :title="'HOSTING WEB'" :image="asset('img/hosting.png')" :link="route('hosting.index')" :button-text="'VER DETALLES'">
+    <x-servicio :title="'HOSTING WEB'" :image="asset('img/hosting.png')" :link="'#hosting'" :button-text="'VER DETALLES'">
       Tenemos disponibles hosting compartido para que hospede su blog personal, tienda electrónica y mas. Bienvenido al siguiente nivel.
     </x-servicio>
 

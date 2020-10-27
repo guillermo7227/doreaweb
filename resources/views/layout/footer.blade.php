@@ -3,9 +3,9 @@
         <div class="mb-4">
             <p class="font-bold text-lg">MENÚ</p>
             <ul class="list-disc list-inside">
-                <li><a href="#top">INICIO</a></li>
-                <li><a href="#quienes-somos">QUIÉNES SOMOS</a></li>
-                <li><a href="#nuestros-servicios">NUESTROS SERVICIOS</a></li>
+                <li><a href="/#top">INICIO</a></li>
+                <li><a href="/#quienes-somos">QUIÉNES SOMOS</a></li>
+                <li><a href="/#nuestros-servicios">NUESTROS SERVICIOS</a></li>
             </ul>
         </div>
         <div>
@@ -17,7 +17,7 @@
         </div>
     </div>
     <div class="text-center text-sm">
-        Copyright 2020 Doreaweb.ml | Todos los derechos reservados | Diseño de paginas web |<br>
-        Valledupar - Colombia
+        Copyright 2020 Doreaweb.ml | Todos los derechos reservados<br>
+        Hosting y Diseño Web | Colombia
     </div>
 </footer>

@@ -16,3 +16,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::group([
+    'prefix' => 'hosting',
+    'as' => 'hosting.',
+], function() {
+    Route::get('', 'HostingController@index')->name('index');
+    
+    Route::get('pago-exito', 'HostingController@paymentSuccess')->name('payment-success');
+    Route::get('pago-esperando', 'HostingController@paymentWaiting')->name('payment-waiting');
+});

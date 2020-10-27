@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>
-      Doreaweb - Diseño y creación de páginas web en Valledupar
+      Doreaweb, Hosting y Diseño Web Profesional - 
       @yield('title')
     </title>
 
     {!! SEO::generate() !!}
 
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-
+    @include('layout.includes.css')
   </head>
   <body>
     @include('layout.header')
