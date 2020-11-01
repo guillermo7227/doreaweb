@@ -203,7 +203,7 @@
             </h2>
             <ul class="text-sm font-bold">
               <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">2GB Espacio</li>
-              <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">0.5 TB/mes</li>
+              <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">0.5 Tb/mes</li>
               <li class="pt-3 pb-4 border-b border-gray-300 text-purple-800">BD ilimitadas</li>
               <li class="pt-3 pb-4 border-b border-gray-300 text-purple-800">Dominios ilimitados</li>
               <li class="pt-3 pb-4 border-b border-gray-300 text-purple-800">Cuentas Email ilimitadas</li>
