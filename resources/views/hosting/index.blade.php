@@ -189,27 +189,44 @@
         </header> -->
         <section class="flex flex-col lg:flex-row items-start items-center lg:justify-center w-full w-full lg:px-10 py-12a ">
           <article class="bg-white w-full lg:w-custom mb-10 lg:px-4 px-6 py-10 text-center text-primary-dark rounded-lg border">
-            <h5 class="font-bold text-base">Plan ilimitado anual</h5>
-            <h2 class="pb-4 flex flex-col justify-center font-bold border-b border-gray-300">
-              <div class="flex justify-center">
-                <span class="text-3xl mt-6 mr-1">USD$</span>
-                <span class="text-6xl">20</span><br>
-              </div>
-              <div class="flex justify-center">
-                <span class="text-2xl">(</span>
-                <span class="text-lg mt-1 mr-1">COP$</span>
-                <span class="text-2xl">75.000)</span>
-              </div>
-            </h2>
+            <h5 class="font-bold text-base ">Plan ilimitado anual </h5>
+            <div class="my-4"></div>
             <ul class="text-sm font-bold">
               <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">2GB Espacio</li>
-              <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">0.5 Tb/mes</li>
+              <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">0.2 Tb/mes</li>
               <li class="pt-3 pb-4 border-b border-gray-300 text-purple-800">BD ilimitadas</li>
               <li class="pt-3 pb-4 border-b border-gray-300 text-purple-800">Dominios ilimitados</li>
               <li class="pt-3 pb-4 border-b border-gray-300 text-purple-800">Cuentas Email ilimitadas</li>
               <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">Con SSH (Acceso remoto)</li>
             </ul>
-            <button onclick="window.location='https://mpago.li/1xVP2Ro'" class="mt-6 uppercase text-center text-sm mt-12 xl:px-24 px-12 sm:px-16 py-2 font-bold text-gray-200 rounded-md" style="background-image:linear-gradient(90deg, #a3a8f0 0%, #696fdd 100%);">CONTRATAR</button>
+            <h2 class="pb-4 flex flex-col justify-center font-bold border-b border-gray-300">
+              <div class="flex justify-center mt-6 ">
+                <span class="text-sm">PRECIO NORMAL</span>
+              </div>
+              <div class="flex justify-center -mt-4 ">
+                <span class="text-3xl mt-6 mr-1 text-red-700 line-through">USD$</span>
+                <span class="text-6xl text-red-700 line-through">60</span><br>
+              </div>
+              <div class="flex justify-center -mt-2 ">
+                <span class="text-2xl line-through text-red-700">(</span>
+                <span class="text-lg mt-1 mr-1 line-through text-red-700">COP$</span>
+                <span class="text-2xl line-through text-red-700">220.000)</span>
+              </div>
+
+              <div class="flex justify-center mt-6 ">
+                <span class="">PRECIO HOY <span class="">(50% DESCUENTO)</span></span>
+              </div>
+              <div class="flex justify-center -mt-2 ">
+                <span class="text-3xl mt-6 mr-1 text-purple-800">USD$</span>
+                <span class="text-6xl mr-4 text-purple-800">30</span>
+              </div>
+              <div class="flex justify-center -mt-4 ">
+                <span class="text-2xl text-purple-800">(</span>
+                <span class="text-lg mt-1 mr-1 text-purple-800">COP$</span>
+                <span class="text-2xl mr-4 text-purple-800">110.000)</span>
+              </div>
+            </h2>
+            <button onclick="window.location='https://mpago.li/1xVP2Ro'" class="mt-6 uppercase text-center mt-12 xl:px-24 px-12 sm:px-16 py-2 font-bold text-gray-200 rounded-md" style="background-image:linear-gradient(90deg, #a3a8f0 0%, #696fdd 100%);">CONTRATAR</button>
           </article>
           <!-- <article class="lg:w-custom w-4/5 mb-10 px-6 py-16 lg:-mt-1 text-white text-center rounded-lg" style="background-image:linear-gradient(90deg, #a3a8f0 0%, #696fdd 100%);">
             <h5 class="font-bold text-base ">Professional</h5>
