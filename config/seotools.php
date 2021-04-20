@@ -3,9 +3,9 @@
  * @see https://github.com/artesaos/seotools
  */
 
-$title = "Doreaweb Diseño Páginas Web y Hosting en Valledupar";
+$title = "Doreaweb Diseño Páginas Web y Hosting";
 $description = 'Diseño de páginas web, diseño web, diseño tiendas virtuales, sitios web, hosting web y mas.';
-$keywords = ['paginas web', 'diseño web', 'valledupar', 'hosting web', 'tiendas virtuales', 'ecommerce valledupar'];
+$keywords = ['paginas web', 'diseño web', 'valledupar', 'colombia', 'hosting web', 'tiendas virtuales', 'ecommerce valledupar'];
 $images = [env('APP_URL') . '/img/logo.png'];
 
 return [
