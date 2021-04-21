@@ -189,7 +189,7 @@
         </header> -->
         <section class="flex flex-col lg:flex-row items-start items-center lg:justify-center w-full w-full lg:px-10 py-12a ">
           <article class="bg-white w-full lg:w-custom mb-10 lg:px-4 px-6 py-10 text-center text-primary-dark rounded-lg border">
-            <h5 class="font-bold text-base ">Plan ilimitado anual </h5>
+            <h5 class="font-bold text-base ">PLAN ILIMITADO ANUAL</h5>
             <div class="my-4"></div>
             <ul class="text-sm font-bold">
               <li class="pt-4 pb-4 border-b border-gray-300 text-purple-800">2GB Espacio</li>
@@ -213,9 +213,9 @@
                 <span class="text-2xl line-through text-red-700">220.000)</span>
               </div>
 
-              <div class="flex justify-center mt-6 ">
-                <span class="">PRECIO POR LANZAMIENTO - 50% DESCUENTO></span> <br>
-                <span>(POR TIEMPO LIMITADO)</span>
+              <div class="text-center mt-6 ">
+                <span class="">PRECIO POR LANZAMIENTO - 50% DESCUENTO</span> <br>
+                <span class="text-gray-700">-- POR TIEMPO LIMITADO --</span>
               </div>
               <div class="flex justify-center -mt-2 ">
                 <span class="text-3xl mt-6 mr-1 text-purple-800">USD$</span>
