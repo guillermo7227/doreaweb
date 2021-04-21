@@ -214,7 +214,8 @@
               </div>
 
               <div class="flex justify-center mt-6 ">
-                <span class="">PRECIO HOY <span class="">(50% DESCUENTO)</span></span>
+                <span class="">PRECIO POR LANZAMIENTO - 50% DESCUENTO></span> <br>
+                <span>(POR TIEMPO LIMITADO)</span>
               </div>
               <div class="flex justify-center -mt-2 ">
                 <span class="text-3xl mt-6 mr-1 text-purple-800">USD$</span>
