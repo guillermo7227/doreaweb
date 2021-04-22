@@ -4,6 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="facebook-domain-verification" content="7kd77ulgbho5bl9mgmu5llj54jnxi3" />
 
     <title>
       Doreaweb, Hosting y Diseño Web Profesional - 
