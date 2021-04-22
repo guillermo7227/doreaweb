@@ -214,8 +214,7 @@
               </div>
 
               <div class="text-center mt-6 ">
-                <span class="">PRECIO POR LANZAMIENTO - 50% DESCUENTO</span> <br>
-                <span class="text-gray-700">-- POR TIEMPO LIMITADO --</span>
+                <span class="">PRECIO POR LANZAMIENTO - 50% DESCUENTO</span>
               </div>
               <div class="flex justify-center -mt-2 ">
                 <span class="text-3xl mt-6 mr-1 text-purple-800">USD$</span>
